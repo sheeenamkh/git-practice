@@ -1,6 +1,4 @@
-print("Hello from GitHub Actions!")
+print("Day 5 completed!")
 
-a = 10
-b = 20
-
-print("Sum:", a + b)
+for i in range(1, 6):
+    print("Learning GitHub Actions:", i)
