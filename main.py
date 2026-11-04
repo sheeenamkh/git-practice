@@ -1,1 +1,6 @@
-print("my first git project")
+print("Hello from GitHub Actions!")
+
+a = 10
+b = 20
+
+print("Sum:", a + b)
